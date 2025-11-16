@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aridr\\OneDrive\\Documents\\Developer\\oop2-fall-2025-26\\project\\lab1\\lab task 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4B231F-5B16-4D32-9397-10515C9F2891}|lab task 4\\lab task 4.csproj|c:\\users\\aridr\\onedrive\\documents\\developer\\oop2-fall-2025-26\\project\\lab1\\lab task 4\\lab task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4B231F-5B16-4D32-9397-10515C9F2891}|lab task 4\\lab task 4.csproj|solutionrelative:lab task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aridr\\OneDrive\\Documents\\Developer\\oop2-fall-2025-26\\project\\lab1\\lab task 4\\lab task 4\\Program.cs",
+              "RelativeDocumentMoniker": "lab task 4\\Program.cs",
+              "ToolTip": "C:\\Users\\aridr\\OneDrive\\Documents\\Developer\\oop2-fall-2025-26\\project\\lab1\\lab task 4\\lab task 4\\Program.cs",
+              "RelativeToolTip": "lab task 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:47:04.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
