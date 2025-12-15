@@ -1,0 +1,15 @@
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\bin\Debug\net9.0\interfaceIndexer.exe
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\bin\Debug\net9.0\interfaceIndexer.deps.json
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\bin\Debug\net9.0\interfaceIndexer.runtimeconfig.json
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\bin\Debug\net9.0\interfaceIndexer.dll
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\bin\Debug\net9.0\interfaceIndexer.pdb
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.AssemblyInfoInputs.cache
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.AssemblyInfo.cs
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.csproj.CoreCompileInputs.cache
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.sourcelink.json
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.dll
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\refint\interfaceIndexer.dll
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.pdb
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\interfaceIndexer.genruntimeconfig.cache
+C:\Users\aridr\OneDrive\Documents\Developer\oop2-fall-2025-26\project\lab11\interfaceIndexer\obj\Debug\net9.0\ref\interfaceIndexer.dll
